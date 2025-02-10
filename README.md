@@ -3,7 +3,7 @@
 🎓 **Computer Science Student at HIT(Holon Institute of Technology)**  
 
 ### 🚀 **About Me**
-- 🔭 I’m currently on my last semester**
+- 🔭 I’m currently on my last semester
 - 👯 I’m looking to collaborate on **open-source projects**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ziv-katzir/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
