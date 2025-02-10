@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Katzir Ziv  
+## Hi there! 👋 I'm Ziv Katzir
 
 🎓 **Computer Science Student at HIT(Holon Institute of Technology)**  
 
