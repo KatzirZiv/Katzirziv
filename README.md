@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Ziv Katzir
 
-🎓 **Computer Science Graduate at HIT(Holon Institute of Technology)**  
+🎓 **Computer Science Graduate from HIT(Holon Institute of Technology)**  
 
 ### 🚀 **About Me**
 - 👯 I’m looking to collaborate on **open-source projects**
